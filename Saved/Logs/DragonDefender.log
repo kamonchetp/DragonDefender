@@ -13610,3 +13610,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.11.11-11.07.06:581][405]LogSlate: Window 'Enemies_newTest' being destroyed
 [2023.11.11-11.07.06:584][405]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2023.11.11-11.07.06:584][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-11.12.45:210][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.11.11-11.12.45:444][ 19]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.11-11.12.45:444][ 19]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.45:444][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-11.12.45:539][ 19]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.11-11.12.45:539][ 19]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.45:539][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-11.12.45:773][ 19]LogSlate: Window 'DragonDefender - Unreal Editor' being destroyed
+[2023.11.11-11.12.46:060][ 20]Cmd: QUIT_EDITOR
+[2023.11.11-11.12.46:060][ 20]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.11.11-11.12.46:063][ 20]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.11.11-11.12.47:064][ 20]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.11.11-11.12.47:064][ 20]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.11.11-11.12.47:064][ 20]LogAudio: Display: Audio Device unregistered from world 'Map_Asset'.
+[2023.11.11-11.12.47:064][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.11-11.12.47:064][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.11-11.12.47:068][ 20]LogAudio: Display: Audio Device Manager Shutdown
+[2023.11.11-11.12.47:068][ 20]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.11-11.12.47:228][ 20]LogExit: Preparing to exit.
+[2023.11.11-11.12.47:317][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.11.11-11.12.47:625][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:625][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:625][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:625][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:625][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:625][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:625][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:625][ 20]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.47:628][ 20]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.47:630][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:630][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:630][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:630][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:630][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:630][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:630][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:630][ 20]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.47:632][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:632][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:632][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:632][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:632][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:632][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:632][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:632][ 20]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.47:633][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:633][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:633][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:633][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:633][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:633][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:633][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:633][ 20]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.47:635][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:635][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:635][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:635][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:635][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:635][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:635][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:635][ 20]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.47:636][ 20]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.47:639][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:639][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:639][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:639][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:639][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:639][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:639][ 20]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.11-11.12.47:639][ 20]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-11.12.47:721][ 20]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.11.11-11.12.47:986][ 20]LogExit: Editor shut down
+[2023.11.11-11.12.47:987][ 20]LogExit: Transaction tracking system shut down
