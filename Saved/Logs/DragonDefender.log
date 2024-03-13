@@ -2775,3 +2775,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.03.13-00.26.53:202][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.03.13-00.26.53:207][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
 [2024.03.13-00.26.53:229][696]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.03.13-00.27.46:849][145]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.03.13-00.27.46:854][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-00.27.46:854][145]PIE: New page: PIE session: GameMap (13 มี.ค. 2567 14:27:46)
+[2024.03.13-00.27.46:854][145]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2024.03.13-00.27.46:866][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011548s)
+[2024.03.13-00.27.46:867][145]LogAIModule: Creating AISystem for world GameMap
+[2024.03.13-00.27.46:867][145]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2024.03.13-00.27.46:867][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.012411s)
+[2024.03.13-00.27.46:891][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.03.13-00.27.46:901][145]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.03.13-00.27.46:901][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-00.27.46:901][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-00.27.46:901][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-00.27.46:901][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-00.27.46:901][145]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-00.27.46:901][145]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-00.27.46:901][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-00.27.46:901][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-00.27.46:901][145]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-00.27.46:901][145]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-00.27.46:901][145]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-00.27.46:901][145]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.13-00.27.46:903][145]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.13-00.27.46:903][145]LogAudioMixer: Display: 1: FrontRight
+[2024.03.13-00.27.46:915][145]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.03.13-00.27.46:915][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-00.27.46:915][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-00.27.46:915][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-00.27.46:915][145]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.13-00.27.46:915][145]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.13-00.27.46:915][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.13-00.27.46:916][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.13-00.27.46:916][145]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.13-00.27.46:916][145]LogInit: FAudioDevice initialized.
+[2024.03.13-00.27.46:916][145]LogAudio: Display: Audio Device (ID: 27) registered with world 'GameMap'.
+[2024.03.13-00.27.46:935][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-00.27.46:936][145]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.03.13-00.27.46:943][145]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2024.03.13-07.27.46
+[2024.03.13-00.27.46:944][145]LogWorld: Bringing up level for play took: 0.007316
+[2024.03.13-00.27.46:944][145]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2024.03.13-00.27.46:951][145]PIE: Server logged in
+[2024.03.13-00.27.46:952][145]PIE: Play in editor total start time 0.099 seconds.
+[2024.03.13-00.27.47:567][182]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2024.03.13-00.27.47:567][182]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.13-00.27.47:567][182]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.13-00.27.48:141][205]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.13-00.27.48:141][205]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.13-00.27.51:878][358]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2024.03.13-00.27.51:878][358]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.13-00.27.51:878][358]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.03.13-00.27.53:068][418]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.13-00.27.53:068][418]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.13-00.27.53:364][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-00.27.53:364][431]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GameMap
+[2024.03.13-00.27.53:364][431]LogSlate: Window 'DragonDefender Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.03.13-00.27.53:370][431]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-00.27.53:372][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-00.27.53:388][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-00.27.53:392][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-00.27.53:417][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.13-00.27.53:418][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.13-00.27.53:424][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.03.13-00.27.53:441][432]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.03.13-00.27.56:477][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.03.13-00.27.57:240][694]LogSlate: Window 'Save Content' being destroyed
+[2024.03.13-00.27.57:260][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../Workspace/IT_YEAR_3/Game/Github/DragonDefender/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.13-00.27.57:283][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.13-00.27.57:324][694]LogSavePackage: Moving '../../../../../Workspace/IT_YEAR_3/Game/Github/DragonDefender/Saved/GameMapAEFE2E244DB663246E0B1BB23BCCAFEC.tmp' to '../../../../../Workspace/IT_YEAR_3/Game/Github/DragonDefender/Content/Maps/GameMap.umap'
+[2024.03.13-00.27.57:337][694]LogFileHelpers: Saving map 'GameMap' took 0.078
+[2024.03.13-00.27.57:337][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Merchant/Merchant" FILE="../../../../../Workspace/IT_YEAR_3/Game/Github/DragonDefender/Content/Blueprints/Merchant/Merchant.uasset" SILENT=true
+[2024.03.13-00.27.57:346][694]LogSavePackage: Moving '../../../../../Workspace/IT_YEAR_3/Game/Github/DragonDefender/Saved/Merchant496ECBD54F5B589C6D91EF8B49AC74E2.tmp' to '../../../../../Workspace/IT_YEAR_3/Game/Github/DragonDefender/Content/Blueprints/Merchant/Merchant.uasset'
+[2024.03.13-00.27.57:372][694]LogSavePackage: Moving '../../../../../Workspace/IT_YEAR_3/Game/Github/DragonDefender/Saved/W_WaveModeHUD68E206CF489811691D473397CB9D438D.tmp' to '../../../../../Workspace/IT_YEAR_3/Game/Github/DragonDefender/Content/ThirdPersonBP/Blueprints/W_WaveModeHUD.uasset'
+[2024.03.13-00.27.57:388][694]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.13-00.27.57:388][694]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Merchant/Merchant.Merchant
+[2024.03.13-00.27.57:388][694]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/W_WaveModeHUD.W_WaveModeHUD
+[2024.03.13-00.27.57:388][694]LogContentValidation: Display: Validating World /Game/Maps/GameMap.GameMap
